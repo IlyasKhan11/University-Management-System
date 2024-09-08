@@ -90,7 +90,6 @@ public class EnterMarks extends javax.swing.JFrame {
         jLabel3.setText("Select Semester:");
 
         cmbRollNo.setForeground(new java.awt.Color(0, 0, 0));
-        cmbRollNo.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
